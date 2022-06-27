@@ -13,7 +13,7 @@
 <table>
   <thead align="center">
     <tr border: none;>
-      <td><b>🎁 Projects</b></td>
+      <td><b>🎁 Projects(or study program)</b></td>
       <td><b>⭐ Mentor or Company</b></td>
       <td><b>📚 Learning</b></td>
       <td><b>🗓 Day</b?</td>
