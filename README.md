@@ -19,5 +19,11 @@
     </tr>
   </thead>
   <tbody>
-    <tr>
+    <tr> 
       <td><b>2022 Qiskit Global Summer School: Quantum Simulations</b></td>
+      <td><img alt="ibm" src="https://img.shields.io/badge/-ibm-052FAD?style=flat-square&logo=ibm&logoColor=white" /> </td>
+      <td><b>skills and know-how to explore the world of quantum computing and its applications.</b></td>
+      <td><b>July 18, 2022 - July 29, 2022</b?></td>
+    </tr>
+    <tr>
+       
