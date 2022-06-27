@@ -6,7 +6,7 @@
    <img alt="qiskit" src="https://img.shields.io/badge/-qiskit-6929C4?style=flat-square&logo=qiskit&logoColor=white" />
    <img alt="html5" src="https://img.shields.io/badge/-html5-E34F26?style=flat-square&logo=html5&logoColor=white" />
    <img alt="java" src="https://img.shields.io/badge/-javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" />
-   <img alt="linux" src="https://img.shields.io/badge/-linux-FCC624?style=flat-square&logo=linuxt&logoColor=white" />
+   <img alt="linux" src="https://img.shields.io/badge/-linux-FCC624?style=flat-square&logo=linux&logoColor=white" />
    I will add more computer languages to this column.
 </p>
 <h3> List of participation in external projects (meetings) and learning projects </h3>
