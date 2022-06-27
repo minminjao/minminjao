@@ -47,7 +47,7 @@
    </tbody>
  </table>
  <h3>Where to find me</h3>
- <p><a href="https://github.com/minminjao" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <img alt="Naver" src="https://img.shields.io/badge/-Naver-03C75A?style=flat-square&logo=Naver&logoColor=white" /><b>mjdorothy679@naver.com</b> <a href="https://www.linkedin.com/in/%EA%B9%80-%EB%AF%BC%EC%A7%80-b05588243 " target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+ <p><a href="https://github.com/minminjao" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <img alt="Naver" src="https://img.shields.io/badge/-Naver-03C75A?style=flat-square&logo=Naver&logoColor=white" /><b>mjdorothy679@naver.com</b> <a href="https://www.linkedin.com/in/%EB%AF%BC%EC%A7%80-%EA%B9%80-b05588243/ " target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
  </p>
        
 📊 **My GitHub Stats:**
