@@ -34,15 +34,15 @@
      </tr>
      <tr>
         <td><b>Introduction to Quantum Information-KAIST</b></td>
-        <td><b>Coursera</b></td>
+        <td><img alt="Coursera" src="https://img.shields.io/badge/-Coursera-0056D2?style=flat-square&logo=Coursera&logoColor=white" /></td>
         <td><b>A study of the general quantum </b></td>
-        <td><b> -- </b></td>
+        <td><b> 7.4- </b></td>
      </tr>
      <tr>
         <td><b>Introduction to Python</b></td>
-        <td><b>datacamp</b></td>
+        <td><img alt="Datacamp" src="https://img.shields.io/badge/-Datacamp-03EF62?style=flat-square&logo=Datacamp&logoColor=white" /></td>
         <td><b>python</b></td>
-        <td><b>ongoing</b></td>
+        <td><b> 7.4--</b></td>
      </tr>
    </tbody>
  </table>
