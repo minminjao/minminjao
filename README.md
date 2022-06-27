@@ -16,7 +16,7 @@
       <td><b>🎁 Projects</b></td>
       <td><b>⭐ Mentor or Company</b></td>
       <td><b>📚 Learning</b></td>
-      <td><b>🛎 Day</b?</td>
+      <td><b>🗓 Day</b?</td>
     </tr>
   </thead>
   <tbody>
