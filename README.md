@@ -9,7 +9,7 @@
    <img alt="linux" src="https://img.shields.io/badge/-linux-FCC624?style=flat-square&logo=linux&logoColor=white" />
    I will add more computer languages to this column.
 </p>
-<h3> List of participation in external projects (meetings) and learning projects </h3>
+<h3> List of participation in external projects (meetings) and learning projects(lectures) </h3>
 <table>
   <thead align="center">
     <tr border: none;>
@@ -27,4 +27,25 @@
       <td><b>July 18, 2022 - July 29, 2022</b?></td>
     </tr>
     <tr>
+       <td><b>WIEST-Quatnum is here team</b></td>
+       <td><img alt="ibm" src="https://img.shields.io/badge/-ibm-052FAD?style=flat-square&logo=ibm&logoColor=white" /><b> Mentors </b> </td>
+       <td><b> quantum, graduate school, future</b></td>
+       <td><b> ongoing- 11.30 </b></td>
+     </tr>
+     <tr>
+        <td><b>Introduction to Quantum Information-KAIST</b></td>
+        <td><b>Coursera</b></td>
+        <td><b>A study of the general quantum </b></td>
+        <td><b> ongoing </b></td>
+     </tr>
+     <tr>
+        <td><b>Introduction to Python</b></td>
+        <td><b>datacamp</b></td>
+        <td><b>python</b></td>
+        <td><b>ongoing</b></td>
+     </tr>
+   </tbody>
+ </table>
+ <h3>Where to find me</h3>
+ <p>
        
