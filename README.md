@@ -9,7 +9,7 @@
    <img alt="linux" src="https://img.shields.io/badge/-linux-FCC624?style=flat-square&logo=linux&logoColor=white" />
    I will add more computer languages to this column and my dream.
 </p>
-<h3> List of participation in external projects (meetings) and learning projects(lectures) </h3>
+<h3> List of learning projects(lectures) </h3>
 <table>
   <thead align="center">
     <tr border: none;>
