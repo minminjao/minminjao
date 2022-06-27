@@ -30,13 +30,13 @@
        <td><b>WIEST-Quatnum is here team</b></td>
        <td><img alt="ibm" src="https://img.shields.io/badge/-ibm-052FAD?style=flat-square&logo=ibm&logoColor=white" /><b> Mentors </b> </td>
        <td><b> quantum, graduate school, future</b></td>
-       <td><b> ongoing- 11.30 </b></td>
+       <td><b> - 11.30 </b></td>
      </tr>
      <tr>
         <td><b>Introduction to Quantum Information-KAIST</b></td>
         <td><b>Coursera</b></td>
         <td><b>A study of the general quantum </b></td>
-        <td><b> ongoing </b></td>
+        <td><b> -- </b></td>
      </tr>
      <tr>
         <td><b>Introduction to Python</b></td>
@@ -49,3 +49,7 @@
  <h3>Where to find me</h3>
  <p><a href="https://github.com/minminjao" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
        
+📊 **My GitHub Stats:**
+<!--START_SECTION:waka-->
+[![minminjao's github stats](https://github-readme-stats.vercel.app/api?username=minminjao)](https://github.com/minminjao)
+<!--END_SECTION:waka-->
