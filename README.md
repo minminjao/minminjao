@@ -1,16 +1,23 @@
-### Hi there 👋
-
-<!--
-**minminjao/minminjao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1> Hey! Nice to see you.</h1>
+<p>Welcome to my page
+<p> I will tell you what I can do after studying. </br> I'm Minji, Students from <b> Duksung Women's University in Korea </b> 
+<p>
+   <img alt="python" src="https://img.shields.io/badge/-python-3776AB?style=flat-square&logo=python&logoColor=white" />
+   <img alt="qiskit" src="https://img.shields.io/badge/-qiskit-6929C4?style=flat-square&logo=qiskit&logoColor=white" />
+   <img alt="html5" src="https://img.shields.io/badge/-html5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+   <img alt="java" src="https://img.shields.io/badge/-javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" />
+   I will add more computer languages to this column.
+</p>
+<h3> List of participation in external projects (meetings) and learning projects </h3>
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>🎁 Projects</b></td>
+      <td><b>⭐ Mentor or Company</b></td>
+      <td><b>📚 Learning</b></td>
+      <td><b>🛎 Day</b?</td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>2022 Qiskit Global Summer School: Quantum Simulations</b></td>
