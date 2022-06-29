@@ -50,9 +50,12 @@
  <h3> 📖 Learning now </h3>
  <p> 'Quantum Computing' 'C++' 'Blockchain' etc...
  <h3>🐎 Where to find me</h3>
- <p><a href="https://github.com/minminjao" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <img alt="Naver" src="https://img.shields.io/badge/-Naver-03C75A?style=flat-square&logo=Naver&logoColor=white" /><b>mjdorothy679@naver.com</b> <a href="https://www.linkedin.com/in/minji-kim-122735243" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+ <p><a href="https://github.com/minminjao" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>  <a href="https://www.linkedin.com/in/minji-kim-122735243" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
  </p>
-       
+ <h3> 🦅 How can you contact me? </h3>
+ <p>  <img alt="Naver" src="https://img.shields.io/badge/-Naver-03C75A?style=flat-square&logo=Naver&logoColor=white" /><b>mjdorothy679@naver.com</b>
+      <img alt="SLACK" src="https://img.shields.io/badge/-Slack-4A154B?style=flat-square&logo=Slack&logoColor=white" /><b> minji</b>
+ </p>     
 📊 **My GitHub Stats:**
 <!--START_SECTION:waka-->
 [![minminjao's github stats](https://github-readme-stats.vercel.app/api?username=minminjao)](https://github.com/minminjao)
