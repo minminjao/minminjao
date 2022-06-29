@@ -56,6 +56,7 @@
  <p>  <img alt="Naver" src="https://img.shields.io/badge/-Naver-03C75A?style=flat-square&logo=Naver&logoColor=white" /><b>mjdorothy679@naver.com</b>
       <img alt="SLACK" src="https://img.shields.io/badge/-Slack-4A154B?style=flat-square&logo=Slack&logoColor=white" /><b>@minji</b>
  </p>     
+
 📊 **My GitHub Stats:**
 <!--START_SECTION:waka-->
 [![minminjao's github stats](https://github-readme-stats.vercel.app/api?username=minminjao)](https://github.com/minminjao)
