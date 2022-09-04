@@ -37,13 +37,13 @@
         <td><b>Introduction to Quantum Information-KAIST</b></td>
         <td><img alt="Coursera" src="https://img.shields.io/badge/-Coursera-0056D2?style=flat-square&logo=Coursera&logoColor=white" /></td>
         <td><b>A study of the general quantum </b></td>
-        <td><b> 7.4- </b></td>
+        <td><b> <a href="https://www.notion.so/a1fc74488d9549b89d04cc345ec5417d#d1d044192df94d429af300a839e859c6" target="_blank">   Done </a> </b></td>
      </tr>
      <tr>
         <td><b>Introduction to Python</b></td>
         <td><img alt="Datacamp" src="https://img.shields.io/badge/-Datacamp-03EF62?style=flat-square&logo=Datacamp&logoColor=white" /></td>
         <td><b>python</b></td>
-        <td><b> 7.4--</b></td>
+        <td><b> <a href="https://www.notion.so/a1fc74488d9549b89d04cc345ec5417d#86975bfa0dd14682b19d0f7fc4ed0810" target="_blank">   Done </a> </b></td>
      </tr>
    </tbody>
  </table>
