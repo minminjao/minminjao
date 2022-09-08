@@ -44,6 +44,12 @@
         <td><b>python</b></td>
         <td><b> <a href="https://www.notion.so/a1fc74488d9549b89d04cc345ec5417d#86975bfa0dd14682b19d0f7fc4ed0810" target="_blank">   Done </a> </b></td>
      </tr>
+      <tr>
+        <td><b>Quantum Explorers</b></td>
+        <td><img alt="ibm" src="https://img.shields.io/badge/-ibm-052FAD?style=flat-square&logo=ibm&logoColor=white" /></td>
+        <td><b>Qiskit & Learning basic common sense in general about quantum computing, chemistry, etc.</b></td>
+        <td><b>   </a> </b></td>
+     </tr>
    </tbody>
  </table>
  <h2> 📖 Learning now </h2>
