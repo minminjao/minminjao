@@ -25,9 +25,8 @@
       <td><b>2022 Qiskit Global Summer School: Quantum Simulations</b></td>
       <td><img alt="ibm" src="https://img.shields.io/badge/-ibm-052FAD?style=flat-square&logo=ibm&logoColor=white" /> </td>
       <td><b>skills and know-how to explore the world of quantum computing and its applications.</b></td>
-      <td><b>July 18, 2022 - July 29, 2022</b?></td>
-    </tr>
-    <tr>
+      <td><b> <a href="https://resonant-card-b1f.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F18be5227-6721-431d-ab58-1dadeae6bbbe%2Fqiskit-global-summer-school-2022-quantum-excellence.png?table=block&id=05b3e2b9-ccbd-4ddc-b4cc-ba17c4d25733&spaceId=fbefc544-0610-4356-82f3-bc6a9472f90c&width=2000&userId=&cache=v2" target="_blank">    July 18, 2022 - July 29, 2022 <-- Done</a></b?></td>
+    </tr> 
        <td><b>WIEST-Quatnum is here team</b></td>
        <td><img alt="ibm" src="https://img.shields.io/badge/-ibm-052FAD?style=flat-square&logo=ibm&logoColor=white" /><b> Mentors </b> </td>
        <td><b> quantum, graduate school, future</b></td>
