@@ -52,6 +52,10 @@
      </tr>
    </tbody>
  </table>
+ <h2> 🌟 List of competitions and presentations </h2>
+    <p> 
+    
+    
  <h2> 📖 Learning now </h2>
  <p> 'Quantum Computing' 'C++' 'Blockchain' 'Python' etc...
  <h2>🐎 Where to find me</h2>
