@@ -53,7 +53,7 @@
    </tbody>
  </table>
  <h2> 🌟 List of competitions and presentations </h2>
-    <p> 
+    <p> <a href="https://youtu.be/2Vx8HrREjPM" target="_blank">  Open-source projects and community contributions to quantum computers-in terms of diversity </a>
     
     
  <h2> 📖 Learning now </h2>
