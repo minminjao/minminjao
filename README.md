@@ -48,7 +48,7 @@
         <td><b>Quantum Explorers</b></td>
         <td><img alt="ibm" src="https://img.shields.io/badge/-ibm-052FAD?style=flat-square&logo=ibm&logoColor=white" /></td>
         <td><b>Qiskit & Learning basic common sense in general about quantum computing, chemistry, etc.</b></td>
-        <td><b>   </a> </b></td>
+        <td><b> <a href="https://github.com/minminjao/Qexplorers.git" target="_blank">  learning </a>   </a> </b></td> 
      </tr>
    </tbody>
  </table>
