@@ -8,7 +8,8 @@
    <img alt="html5" src="https://img.shields.io/badge/-html5-E34F26?style=flat-square&logo=html5&logoColor=white" />
    <img alt="java" src="https://img.shields.io/badge/-javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" />
    <img alt="linux" src="https://img.shields.io/badge/-linux-FCC624?style=flat-square&logo=linux&logoColor=white" />
-
+   <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=C++&logoColor=white" />
+   <img alt="C" src="https://img.shields.io/badge/--A8B9CC?style=flat-square&logo=C&logoColor=white" />
    I will add more computer languages to this column and my dream.
 </p>
 <h2> 🌟 List of learning projects(lectures) </h2>
