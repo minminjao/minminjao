@@ -59,6 +59,7 @@
  <h2> 🌟 List of competitions and presentations </h2>
     <p> <a href="https://youtu.be/2Vx8HrREjPM" target="_blank">  Open-source projects and community contributions to quantum computers-in terms of diversity </a>
     <p> <a href="https://user-images.githubusercontent.com/108252034/198161287-9d9be5ba-6501-4ddc-bb7b-02375eaf24ab.png" target="_blank">  2022 Ionq&Qcenter Quantum Challenge Q3 completed => I got Challenge Award  </a>
+     <p> <a href="https://orion-black.itch.io/rogue-entanglement" target="_blank">  Quantum Games Hackaton 2022 - rogue-entanglement   </a>
     
  <h2> 📖 Learning now </h2>
  <p> 'Quantum Computing' 'C++' 'Blockchain' 'Python' etc...
