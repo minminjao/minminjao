@@ -60,6 +60,12 @@
         <td><b>Qiskit & Learning basic common sense in general about quantum computing, chemistry, etc.</b></td>
         <td><b> <a href="https://github.com/minminjao/Qexplorers.git" target="_blank">  learning </a>   </a> </b></td> 
      </tr>
+     <tr>
+        <td><b>Boostcourse Data Science Coaching Study 2022</b></td>
+        <td>Boostcourse</td>
+        <td><b>파이썬으로 데이터 분석 코드 작성법 및 분석방법</b></td>
+        <td><b> <a href="https://user-images.githubusercontent.com/108252034/205055978-136af512-0bfb-4b70-bb6b-1992ca442897.png" target="_blank">  Done</a></b></td> 
+     </tr>
    </tbody>
  </table>
  <h2> 🌟 List of competitions and presentations </h2>
