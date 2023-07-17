@@ -66,6 +66,12 @@
         <td><b>파이썬으로 데이터 분석 코드 작성법 및 분석방법</b></td>
         <td><b> <a href="https://user-images.githubusercontent.com/108252034/205055978-136af512-0bfb-4b70-bb6b-1992ca442897.png" target="_blank">  Done</a></b></td> 
      </tr>
+       <tr>
+        <td><b>VQA 2023</b></td>
+        <td>고려대</td>
+        <td><b>VQA 연구 및 강의수강</b></td>
+        <td><b> <a href="https://qclab.korea.ac.kr/QCLab/index.php/Variational_Quantum_Algorithms:_Challenge_or_Excuse" target="_blank">  2023.07-2023.08 </a> </b></td> 
+     </tr>
    </tbody>
  </table>
  <h2> 🌟 List of competitions and presentations </h2>
