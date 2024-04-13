@@ -1,6 +1,6 @@
 <h1> Hey! Nice to see you.</h1>
 <p>Welcome to my page
-<p> I will tell you what I can do after studying. </br> I'm Minji, Students from <b> Duksung Women's University in Korea
+<p> I will tell you what I can do after studying. </br> I'm Minji, <b> Master's student at Seoul National University of Science and Technology
  </b> 
 <p>
    <img alt="python" src="https://img.shields.io/badge/-python-3776AB?style=flat-square&logo=python&logoColor=white" />
