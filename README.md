@@ -93,5 +93,5 @@
 <h3>📊 **My GitHub Stats:** </h3>
 
 <!--START_SECTION:waka-->
-[![minminjao's github stats](https://github-readme-stats.vercel.app/api?username=minminjao)](https://github.com/minminjao)
+[![minminjao's github stats](https://github-readme-stats.vercel.app/api?username=minminjao&show_icons=true&theme=radical)](https://github.com/minminjao)
 <!--END_SECTION:waka-->
